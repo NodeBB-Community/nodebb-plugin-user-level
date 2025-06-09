@@ -1,0 +1,19 @@
+{
+    "admin-add-level":"等级列表",
+    "admin-add-item":"添加项目",
+    "admin-save":"保存",
+    "admin-form-level-name":"等级名称",
+    "admin-form-placeholder-level-name":"等级名称",
+    "admin-form-placeholder-min-rep":"最小声望值",
+    "admin-min-rep":"达到这一等级所需的最低声誉",
+    "admin-item-edit":"编辑",
+    "admin-delete":"删除",
+
+    "topic-REPUTATION-progress":"声望值: %1 / %2",
+    "topic-REPUTATION": "声望值: %1",
+    "topic-next-level":"下一级: %1",
+    "highest-level":"最高等级",
+    "level":"等级 %1: %2",
+
+    "user-account-popover":"距离升级到 “%2” 还需要 %1 声望值"
+}
